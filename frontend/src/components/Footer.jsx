@@ -37,7 +37,7 @@ export default function Footer() {
       </div>
       <div className="border-t border-border py-5">
         <p className="text-center text-xs text-muted">
-          © {year} {profile.name}. Built with React, Tailwind CSS & Framer Motion.
+          © {year} {profile.name}.
         </p>
       </div>
     </footer>
